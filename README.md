@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reem Osama</h1>
-<h3 align="center">A student a faculty at computer Science interested in mobile development and data analysis</h3>
+<h3 align="center">A fresh graduate with a Bachelor's degree in Computers and Information, Bioinformatics Department, class 2023,with an "excellent with honors" grade and ranked the 3rd among my colleagues. currently, I study Professional Web development &BI scholarship provided by ITI </h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full stack web development** 
 
 - 📫 How to reach me **https://www.linkedin.com/in/ireemosama/**
 
