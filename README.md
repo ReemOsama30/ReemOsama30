@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reem Osama</h1>
-<h3 align="center">A fresh graduate with a Bachelor's degree in Computers and Information, Bioinformatics Department, class 2023,with an "excellent with honors" grade and ranked the 3rd among my colleagues. currently, I study Professional Web development &BI scholarship provided by ITI </h3>
+<h3 align="center">A graduate with a Bachelor's degree in Computers and Information, Bioinformatics Department, class of 2023, with an 'excellent with honors' grade. Currently, I am studying Professional Web Development & BI through a scholarship provided by ITI. Additionally, I work as a teaching assistant at the Faculty of Computers and Information Technology at Assiut University </h3>
 
 - 🌱 I’m currently learning **Full stack web development** 
 
