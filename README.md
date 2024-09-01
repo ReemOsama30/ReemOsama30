@@ -5,7 +5,7 @@
 </p>
 🌱 I’m currently learning Full stack web development
 
-📫 How to reach me: LinkedIn
+📫 How to reach me:   <a href="https://www.linkedin.com/in/ireemosama/" target="_blank">LinkedIn</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
