@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reem Osama</h1>
 <h3 align="center">A graduate with a Bachelor's degree in Computers and Information, Bioinformatics Department, class of 2023, with an 'excellent with honors' grade. Currently, I am studying Professional Web Development & BI through a scholarship provided by ITI. Additionally, I work as a teaching assistant at the Faculty of Computers and Information Technology at Assiut University</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reemosama30&color=brightgreen&style=flat-square" alt="Profile Views">
-</p>
+
 🌱 I’m currently learning Full stack web development
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/ireemosama/" target="_blank">LinkedIn</a>
